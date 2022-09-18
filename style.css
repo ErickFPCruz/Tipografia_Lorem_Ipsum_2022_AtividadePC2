@@ -1,0 +1,61 @@
+body{
+        color: rgba(238, 71, 59, 0.904);
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-weight: 800;
+        font-size: 18px;
+        background-color: rgba(255, 238, 145, 0.900);
+    }
+
+p   {
+        font-size: larger;
+        line-height: 1.25;
+        text-indent: 30px;
+    }
+
+h1, h2, h3, h4  {
+                    font-style: oblique;
+                }
+                
+h1  {
+        color: brown;
+        font-weight: bold;
+        text-shadow: 5px 5px 2px black;
+        font-family: 'Courier New', Courier, monospace;
+        letter-spacing: 4px;
+        word-spacing: 5px;
+        text-transform: capitalize;
+    }
+
+h2  {
+        font-size: xx-large;
+        color: blueviolet;
+    }
+
+h3  {
+        font-size: 175%;
+        color: darkcyan;
+    }
+
+h4  {
+        font-size: 225%;
+        font-weight: normal;
+        color: aquamarine;
+    }
+
+ul  {
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-variant: small-caps;
+        text-align: justify;
+    }
+
+ol  {
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-variant: small-caps;
+        text-align: justify;
+    }
+
+li  {
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-variant: small-caps;
+        text-align: justify;
+    }
